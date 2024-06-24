@@ -1,2 +1,2 @@
-# Web-Planet_Null-Testing
-Website testing for Planet: Null
+# Website_Null
+A github pages test deployment of the **Planet: Null** website.
